@@ -53,4 +53,5 @@ npm run start
 
 🧑‍💻 Author
 Aravindhan S
+I sincerely apologize for not completing the authentication login page within the given timeframe. With a little more time, I would have been able to finalize it.
 
