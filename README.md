@@ -31,21 +31,22 @@ Backend:
 
 ### 1. Clone the repository
 
-git clone https://github.com/yourusername/note-taking-app.git
+git clone https://github.com/Aravindhangif/Notes-Taking-Assessment.git
 cd note-taking-app
-2. Setup Backend
+
+### 2. Setup Backend
 cd backend
 npm install
 Create a .env file inside backend/ and add:
 
-### For Database Connectivity:
+### 3. For Database Connectivity:
 MONGO_URI=mongodb+srv://Notes:8BfxbO8VaDA89wO8@notes.mpktkww.mongodb.net/?retryWrites=true&w=majority&appName=Notes
 PORT=8000
 Then run:
 npm start
 Backend will run on http://localhost:8000.
 
-3. Setup Frontend
+### 4. Setup Frontend
 cd ../frontend
 npm install
 npm run start
